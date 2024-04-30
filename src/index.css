@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 300px; /* 新增 */
+  height: 400px; /* 新增 */
 }
 
 code {
